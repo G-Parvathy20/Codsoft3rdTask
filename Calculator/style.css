@@ -1,0 +1,190 @@
+.border{
+    background:linear-gradient(lightpink,white,lightpink,pink,palevioletred);
+    width: 500px;
+    height: 550px;
+    border-radius: 20px;
+}
+.textbox{
+    width: 400px; 
+    height: 50px; 
+    padding: 10px;
+    font-size: 30px;
+    border-color: black; 
+    background-color: whitesmoke; 
+    border-radius: 5px;
+}
+.firstline button{
+    justify-content: space-between;
+}
+#ac{
+    padding:20px;
+    margin-right: 20px;
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+#ac:hover{
+    background-color: lightpink;
+}
+#clear{
+    padding: 20px;
+    margin-right:20px;
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+#clear:hover{
+    background-color: lightpink;
+}
+#dot{
+    padding:20px;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 100%;
+    border-radius: 10px;
+}
+#dot:hover{
+    background-color: lightpink;
+}
+#divide{
+    padding: 20px;
+    margin-right:20px;
+    border-radius: 10px;
+}
+#divide:hover{
+    background-color: lightpink;
+}
+#seven{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#seven:hover{
+    background-color: lightpink;
+}
+#eight{
+    padding: 20px;
+    margin-right:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#eight:hover{
+    background-color: lightpink;
+}
+#nine{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#nine:hover{
+    background-color: lightpink;
+}
+#multiply{
+    padding: 20px;
+    margin-right:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#multiply:hover{
+    background-color: lightpink;
+}
+#four{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#four:hover{
+    background-color: lightpink;
+}
+#five{
+    padding: 20px;
+    margin-right:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#five:hover{
+    background-color: lightpink;
+}
+#six{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#six:hover{
+    background-color: lightpink;
+}
+#minus{
+    padding: 20px;
+    margin-right:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#minus:hover{
+    background-color: lightpink;
+}
+#one{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#one:hover{
+    background-color: lightpink;
+}
+#two{
+    padding: 20px;
+    margin-right:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#two:hover{
+    background-color: lightpink;
+}
+#three{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#three:hover{
+    background-color: lightpink;
+}
+#plus{
+    padding: 20px;
+    margin-right:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#plus:hover{
+    background-color: lightpink;
+}
+#percent{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#percent:hover{
+    background-color: lightpink;
+}
+#zero{
+    padding: 20px;
+    margin-right:20px;
+    margin-top:10px;
+    border-radius: 10px;
+}
+#zero:hover{
+    background-color: lightpink;
+}
+#equal{
+    padding:20px;
+    margin-right: 20px;
+    margin-top:10px;
+    background-color: palevioletred;
+    border-radius: 40px;
+}
+#equal:hover{
+    background-color: lightpink;
+}

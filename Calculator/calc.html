@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <center>
+        <div class="border">
+        <h1>Calculator</h1>
+        <textarea id="result" class="textbox"></textarea>
+        <br>
+        <br>
+        <table>
+            <div class="firstline">
+            <tr><td><button onclick="cleardisplay()" id="ac">AC</button></td>
+            <td><button onclick="cleardisplay()" id="clear">Clear</button></td>
+            <td><button onclick="display('.')" id="dot">.</button></td>
+            <td><button onclick="display('/')" id="divide">/</button></td></tr>
+            
+            
+            <tr><td><button  onclick="display('7')" id="seven">7</button></td>
+            <td><button onclick="display('8')" id="eight">8</button></td>
+            <td><button onclick="display('9')" id="nine">9</button></td>
+            <td><button onclick="display('*')" id="multiply">*</button></td></tr>
+            
+            
+            <tr><td><button onclick="display('4')" id="four">4</button></td>
+                <td><button onclick="display('5')" id="five">5</button></td>
+                <td><button onclick="display('6')" id="six">6</button></td>
+                <td><button onclick="display('-')" id="minus">-</button></td></tr>
+                
+                
+                <tr><td><button onclick="display('1')" id="one">1</button></td>
+                    <td><button onclick="display('2')" id="two">2</button></td>
+                    <td><button onclick="display('3')" id="three">3</button></td>
+                    <td><button onclick="display('+')" id="plus">+</button></td></tr>
+                    
+                    
+                    <tr><td><button onclick="display('%')" id="percent">%</button></td>
+                        <td><button onclick="display('0')" id="zero">0</button></td>
+                        <td><button onclick="calculate()" id="equal">=</button></td></tr>
+                </div>
+        </table>
+    </div>
+</center>
+<script src="script.js"></script> 
+</body>
+</html>
